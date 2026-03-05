@@ -31,8 +31,8 @@ Example:
 
 ```json
 [
-  {"challenge": "2+2=?", "answer": "4"},
-  {"challenge": "What is the capital of France?", "answer": "Paris"}
+  {"challenge": "Start with a six-letter geographic term for an ancient refuse heap often studied by archaeologists.\n\nChange only the first letter to form a new six-letter word meaning “to enrage” or “to drive crazy.”\n\nWhat word do you get?", "answer": "madden"},
+  {"challenge": "Here’s your Sunday Puzzle challenge:\n\nTake the two-word phrase meaning “one final.” Rearrange its five letters to name a common geography book found in classrooms — a collection of maps.\n\nWhat is it?","answer": "ATLAS"}
 ]
 ```
 
