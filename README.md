@@ -1,33 +1,33 @@
 # NPR-RL
 
-使用 **GRPO（Group Relative Policy Optimization）** 对谜题-答案类任务进行强化学习微调（RLVR）。基于 Qwen2.5 与 LoRA，支持按难度采样的实验选项。
+Reinforcement learning fine-tuning (RLVR) for **puzzle–answer** tasks using **GRPO (Group Relative Policy Optimization)**. Built on Qwen2.5 with LoRA and optional difficulty-based sampling.
 
-## 功能
+## Features
 
-- **GRPO 训练**：组内相对优势、KL 约束、参考模型
-- **LoRA + 4bit**：显存友好，可训 1.5B 级模型
-- **奖励**：从模型输出中抽取答案，与标准答案规范化后 0/1 判对
-- **采样模式**：`uniform`（均匀）或 `difficulty`（按通过率 EMA 的 p*(1-p) 加权）
+- **GRPO training**: within-group relative advantage, KL penalty, reference model
+- **LoRA + 4-bit**: memory-efficient, suitable for 1.5B-scale models
+- **Reward**: extract answer from model output, normalize and compare to ground truth for 0/1 reward
+- **Sampling modes**: `uniform` (baseline) or `difficulty` (p*(1-p) weighting by per-example pass-rate EMA)
 
-## 环境
+## Requirements
 
 - Python 3.8+
-- CUDA（推荐）
+- CUDA (recommended)
 
-## 安装
+## Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 数据格式
+## Data format
 
-`data.json` 为 JSON 数组，每项包含：
+`data.json` should be a JSON array; each item must have:
 
-- `challenge`：题目/谜题文本
-- `answer`：标准答案（用于计算 0/1 reward）
+- `challenge`: puzzle/question text
+- `answer`: ground-truth answer (used for 0/1 reward)
 
-示例：
+Example:
 
 ```json
 [
@@ -36,36 +36,36 @@ pip install -r requirements.txt
 ]
 ```
 
-## 运行
+## Usage
 
 ```bash
 python train_grpo.py --data_path data.json --output_dir ./grpo_model
 ```
 
-### 常用参数
+### Main arguments
 
-| 参数 | 默认 | 说明 |
-|------|------|------|
-| `--model_name` | Qwen/Qwen2.5-1.5B-Instruct | 基座模型 |
-| `--data_path` | data.json | 训练数据路径 |
-| `--output_dir` | ./grpo_model | 保存目录 |
-| `--group_size` | 8 | GRPO 每组采样数 |
-| `--lr` | 1e-6 | 学习率 |
-| `--kl_beta` | 0.02 | KL 惩罚系数 |
-| `--max_new_tokens` | 128 | 每步最大生成长度 |
-| `--max_steps` | 1000 | 训练步数 |
-| `--sampling_mode` | uniform | 采样方式：`uniform` / `difficulty` |
-| `--difficulty_alpha` | 1.0 | difficulty 模式下的权重指数 |
-| `--ema_momentum` | 0.1 | 每题通过率 EMA 动量 |
+| Argument | Default | Description |
+|----------|---------|-------------|
+| `--model_name` | Qwen/Qwen2.5-1.5B-Instruct | Base model |
+| `--data_path` | data.json | Path to training data |
+| `--output_dir` | ./grpo_model | Save directory |
+| `--group_size` | 8 | GRPO group size (samples per step) |
+| `--lr` | 1e-6 | Learning rate |
+| `--kl_beta` | 0.02 | KL penalty coefficient |
+| `--max_new_tokens` | 128 | Max generated tokens per step |
+| `--max_steps` | 1000 | Training steps |
+| `--sampling_mode` | uniform | `uniform` or `difficulty` |
+| `--difficulty_alpha` | 1.0 | Exponent for difficulty weighting |
+| `--ema_momentum` | 0.1 | EMA momentum for per-example pass rate |
 
-### 按难度采样（difficulty）
+### Difficulty-based sampling
 
-当 `--sampling_mode difficulty` 时，会维护每题通过率的 EMA，并按 `p*(1-p)` 加权采样，使中等难度题目被更多选中。
+With `--sampling_mode difficulty`, the script maintains a per-example pass-rate EMA and samples proportionally to `p*(1-p)`, favoring medium-difficulty items.
 
-## 输出
+## Output
 
-- 训练后的 LoRA 权重保存在 `--output_dir`
-- 控制台每 `--log_every` 步打印 loss、reward、effective_ratio、avg_pass_ema 等
+- Trained LoRA weights are saved under `--output_dir`.
+- Every `--log_every` steps, the console prints loss, reward, effective_ratio, avg_pass_ema, etc.
 
 ## License
 
