@@ -1,0 +1,3685 @@
+{
+  "accuracy": 0.0032626427406199023,
+  "correct": 2.0,
+  "total": 613,
+  "results": [
+    {
+      "challenge_id": 0,
+      "correct": false,
+      "pred": "the",
+      "gold": "citgo"
+    },
+    {
+      "challenge_id": 1,
+      "correct": false,
+      "pred": "the",
+      "gold": "greyhoundracing"
+    },
+    {
+      "challenge_id": 2,
+      "correct": false,
+      "pred": "the",
+      "gold": "dryeye"
+    },
+    {
+      "challenge_id": 3,
+      "correct": false,
+      "pred": "the",
+      "gold": "benstillertinkerbellbenstillertinkerbell"
+    },
+    {
+      "challenge_id": 4,
+      "correct": false,
+      "pred": "the",
+      "gold": "matchpointchampion"
+    },
+    {
+      "challenge_id": 5,
+      "correct": false,
+      "pred": "the",
+      "gold": "behemothbeemoth"
+    },
+    {
+      "challenge_id": 6,
+      "correct": false,
+      "pred": "the",
+      "gold": "kalamazookazoolama"
+    },
+    {
+      "challenge_id": 7,
+      "correct": false,
+      "pred": "the",
+      "gold": "tinafeyirony"
+    },
+    {
+      "challenge_id": 8,
+      "correct": false,
+      "pred": "the",
+      "gold": "footnotefootnose"
+    },
+    {
+      "challenge_id": 9,
+      "correct": false,
+      "pred": "the",
+      "gold": "automobileinsurance"
+    },
+    {
+      "challenge_id": 10,
+      "correct": false,
+      "pred": "the",
+      "gold": "tripolilipitor"
+    },
+    {
+      "challenge_id": 12,
+      "correct": false,
+      "pred": "the",
+      "gold": "pinocchiochopin"
+    },
+    {
+      "challenge_id": 13,
+      "correct": false,
+      "pred": "to",
+      "gold": "sfirstlettersinitialletter"
+    },
+    {
+      "challenge_id": 14,
+      "correct": false,
+      "pred": "the",
+      "gold": "silentthirdlettersilentletter"
+    },
+    {
+      "challenge_id": 15,
+      "correct": false,
+      "pred": "we",
+      "gold": ""
+    },
+    {
+      "challenge_id": 16,
+      "correct": false,
+      "pred": "the",
+      "gold": "prosepoems"
+    },
+    {
+      "challenge_id": 17,
+      "correct": false,
+      "pred": "the",
+      "gold": "alphaaloha"
+    },
+    {
+      "challenge_id": 18,
+      "correct": false,
+      "pred": "the",
+      "gold": "cinderella"
+    },
+    {
+      "challenge_id": 19,
+      "correct": false,
+      "pred": "the",
+      "gold": "granola"
+    },
+    {
+      "challenge_id": 20,
+      "correct": false,
+      "pred": "the",
+      "gold": "treatthreatthereat"
+    },
+    {
+      "challenge_id": 21,
+      "correct": false,
+      "pred": "the",
+      "gold": "charlesgrodinaugusterodinodin"
+    },
+    {
+      "challenge_id": 22,
+      "correct": false,
+      "pred": "the",
+      "gold": "northpoleporthole"
+    },
+    {
+      "challenge_id": 23,
+      "correct": false,
+      "pred": "the",
+      "gold": "fortlauderdalefla"
+    },
+    {
+      "challenge_id": 25,
+      "correct": false,
+      "pred": "the",
+      "gold": "repeatdigitsrepeatingdigits"
+    },
+    {
+      "challenge_id": 26,
+      "correct": false,
+      "pred": "the",
+      "gold": "goldameiremir"
+    },
+    {
+      "challenge_id": 27,
+      "correct": false,
+      "pred": "the",
+      "gold": "feedbackboldface"
+    },
+    {
+      "challenge_id": 28,
+      "correct": false,
+      "pred": "to",
+      "gold": "sixteen"
+    },
+    {
+      "challenge_id": 29,
+      "correct": false,
+      "pred": "the",
+      "gold": "salemselmaamesmesa"
+    },
+    {
+      "challenge_id": 30,
+      "correct": false,
+      "pred": "the",
+      "gold": "policeacademy"
+    },
+    {
+      "challenge_id": 31,
+      "correct": false,
+      "pred": "the",
+      "gold": "wheelchairheelhair"
+    },
+    {
+      "challenge_id": 32,
+      "correct": false,
+      "pred": "the",
+      "gold": "pandaapartnasaldramaatlas"
+    },
+    {
+      "challenge_id": 33,
+      "correct": false,
+      "pred": "the",
+      "gold": "chlorineoarcleanfloatiesteaflows"
+    },
+    {
+      "challenge_id": 34,
+      "correct": false,
+      "pred": "the",
+      "gold": "hastemakeswastemightmakesright"
+    },
+    {
+      "challenge_id": 35,
+      "correct": false,
+      "pred": "to",
+      "gold": ""
+    },
+    {
+      "challenge_id": 36,
+      "correct": false,
+      "pred": "the",
+      "gold": "veterinary"
+    },
+    {
+      "challenge_id": 37,
+      "correct": false,
+      "pred": "the",
+      "gold": "aegeanseaindiancay"
+    },
+    {
+      "challenge_id": 38,
+      "correct": false,
+      "pred": "the",
+      "gold": "wononewryrye"
+    },
+    {
+      "challenge_id": 39,
+      "correct": false,
+      "pred": "the",
+      "gold": "scriptureptcruiser"
+    },
+    {
+      "challenge_id": 40,
+      "correct": false,
+      "pred": "the",
+      "gold": "soapshampoo"
+    },
+    {
+      "challenge_id": 41,
+      "correct": false,
+      "pred": "the",
+      "gold": "childrenslitschindlerslist"
+    },
+    {
+      "challenge_id": 42,
+      "correct": false,
+      "pred": "the",
+      "gold": "tedturnerheadturner"
+    },
+    {
+      "challenge_id": 43,
+      "correct": false,
+      "pred": "the",
+      "gold": "mariacallaslascala"
+    },
+    {
+      "challenge_id": 44,
+      "correct": false,
+      "pred": "the",
+      "gold": "birdsofafeatherflocktogether"
+    },
+    {
+      "challenge_id": 45,
+      "correct": false,
+      "pred": "the",
+      "gold": "miteitem"
+    },
+    {
+      "challenge_id": 46,
+      "correct": false,
+      "pred": "the",
+      "gold": "baglast"
+    },
+    {
+      "challenge_id": 47,
+      "correct": false,
+      "pred": "the",
+      "gold": "afterearth"
+    },
+    {
+      "challenge_id": 48,
+      "correct": false,
+      "pred": "the",
+      "gold": "irkbugvex"
+    },
+    {
+      "challenge_id": 49,
+      "correct": false,
+      "pred": "the",
+      "gold": "gianttitan"
+    },
+    {
+      "challenge_id": 50,
+      "correct": false,
+      "pred": "the",
+      "gold": "underweardrawer"
+    },
+    {
+      "challenge_id": 51,
+      "correct": false,
+      "pred": "the",
+      "gold": "sudanliberia"
+    },
+    {
+      "challenge_id": 52,
+      "correct": false,
+      "pred": "the",
+      "gold": "mudflapfloodmap"
+    },
+    {
+      "challenge_id": 54,
+      "correct": false,
+      "pred": "the",
+      "gold": "maleson"
+    },
+    {
+      "challenge_id": 55,
+      "correct": false,
+      "pred": "the",
+      "gold": "mitsubishisushi"
+    },
+    {
+      "challenge_id": 56,
+      "correct": false,
+      "pred": "the",
+      "gold": "nailpolishremover"
+    },
+    {
+      "challenge_id": 57,
+      "correct": false,
+      "pred": "the",
+      "gold": "questionmark"
+    },
+    {
+      "challenge_id": 58,
+      "correct": false,
+      "pred": "the",
+      "gold": "geraldfordalgore"
+    },
+    {
+      "challenge_id": 59,
+      "correct": false,
+      "pred": "the",
+      "gold": "marcantonyarcantonym"
+    },
+    {
+      "challenge_id": 60,
+      "correct": false,
+      "pred": "the",
+      "gold": "beyoncebeyond"
+    },
+    {
+      "challenge_id": 61,
+      "correct": false,
+      "pred": "the",
+      "gold": "carwash"
+    },
+    {
+      "challenge_id": 63,
+      "correct": false,
+      "pred": "the",
+      "gold": "peopleinglasshousesshouldntthrowstonespeoplewholiveinglasshousesshouldntthrowstones"
+    },
+    {
+      "challenge_id": 64,
+      "correct": false,
+      "pred": "the",
+      "gold": "aspirinpain"
+    },
+    {
+      "challenge_id": 65,
+      "correct": false,
+      "pred": "the",
+      "gold": "misunderstandingargument"
+    },
+    {
+      "challenge_id": 66,
+      "correct": false,
+      "pred": "the",
+      "gold": "hillaryrodhamclintonhardrockcafe"
+    },
+    {
+      "challenge_id": 67,
+      "correct": false,
+      "pred": "the",
+      "gold": "oliverstoneemmastone"
+    },
+    {
+      "challenge_id": 68,
+      "correct": false,
+      "pred": "the",
+      "gold": "tsingtaotoasting"
+    },
+    {
+      "challenge_id": 69,
+      "correct": false,
+      "pred": "the",
+      "gold": "kenburns"
+    },
+    {
+      "challenge_id": 70,
+      "correct": false,
+      "pred": "the",
+      "gold": "manhattanham"
+    },
+    {
+      "challenge_id": 71,
+      "correct": false,
+      "pred": "the",
+      "gold": "kalamazookaramazov"
+    },
+    {
+      "challenge_id": 72,
+      "correct": false,
+      "pred": "the",
+      "gold": "hulaluau"
+    },
+    {
+      "challenge_id": 73,
+      "correct": false,
+      "pred": "the",
+      "gold": "osageorangeoreganosage"
+    },
+    {
+      "challenge_id": 74,
+      "correct": false,
+      "pred": "the",
+      "gold": "tennesseewilliams"
+    },
+    {
+      "challenge_id": 75,
+      "correct": false,
+      "pred": "the",
+      "gold": "taebobowtie"
+    },
+    {
+      "challenge_id": 76,
+      "correct": false,
+      "pred": "the",
+      "gold": "dreamdaymare"
+    },
+    {
+      "challenge_id": 77,
+      "correct": false,
+      "pred": "the",
+      "gold": "lazboy"
+    },
+    {
+      "challenge_id": 78,
+      "correct": false,
+      "pred": "the",
+      "gold": "ladygagaglaad"
+    },
+    {
+      "challenge_id": 79,
+      "correct": false,
+      "pred": "the",
+      "gold": "gullivergumliver"
+    },
+    {
+      "challenge_id": 80,
+      "correct": false,
+      "pred": "the",
+      "gold": "digitalclocksis"
+    },
+    {
+      "challenge_id": 81,
+      "correct": false,
+      "pred": "the",
+      "gold": "blossombloom"
+    },
+    {
+      "challenge_id": 82,
+      "correct": false,
+      "pred": "the",
+      "gold": "caracasmaracas"
+    },
+    {
+      "challenge_id": 83,
+      "correct": false,
+      "pred": "the",
+      "gold": "mazolamazda"
+    },
+    {
+      "challenge_id": 84,
+      "correct": false,
+      "pred": "the",
+      "gold": "diophantusthousandpi"
+    },
+    {
+      "challenge_id": 85,
+      "correct": false,
+      "pred": "the",
+      "gold": "sandrabullocknasadr"
+    },
+    {
+      "challenge_id": 86,
+      "correct": false,
+      "pred": "the",
+      "gold": "quincy"
+    },
+    {
+      "challenge_id": 87,
+      "correct": false,
+      "pred": "the",
+      "gold": "firsleaveslifesavers"
+    },
+    {
+      "challenge_id": 88,
+      "correct": false,
+      "pred": "the",
+      "gold": "westinghousewestwinghouse"
+    },
+    {
+      "challenge_id": 89,
+      "correct": false,
+      "pred": "the",
+      "gold": "hotturkeysandwich"
+    },
+    {
+      "challenge_id": 90,
+      "correct": false,
+      "pred": "the",
+      "gold": "thewolfofwallstreet"
+    },
+    {
+      "challenge_id": 91,
+      "correct": false,
+      "pred": "the",
+      "gold": "cateblanchettcarteblanche"
+    },
+    {
+      "challenge_id": 92,
+      "correct": false,
+      "pred": "the",
+      "gold": "collegiatecolgate"
+    },
+    {
+      "challenge_id": 93,
+      "correct": false,
+      "pred": "the",
+      "gold": "muskmelonelonmusk"
+    },
+    {
+      "challenge_id": 94,
+      "correct": false,
+      "pred": "the",
+      "gold": "setofteeth"
+    },
+    {
+      "challenge_id": 95,
+      "correct": false,
+      "pred": "the",
+      "gold": "watersweat"
+    },
+    {
+      "challenge_id": 96,
+      "correct": false,
+      "pred": "the",
+      "gold": "breakingbadbakingbread"
+    },
+    {
+      "challenge_id": 97,
+      "correct": false,
+      "pred": "the",
+      "gold": "gretagarboevagaborgretagarbozsazsagabor"
+    },
+    {
+      "challenge_id": 98,
+      "correct": false,
+      "pred": "the",
+      "gold": "bradbethbadbreath"
+    },
+    {
+      "challenge_id": 99,
+      "correct": false,
+      "pred": "the",
+      "gold": "uthantthanku"
+    },
+    {
+      "challenge_id": 100,
+      "correct": false,
+      "pred": "to",
+      "gold": "twicefourtimes"
+    },
+    {
+      "challenge_id": 101,
+      "correct": false,
+      "pred": "the",
+      "gold": "lamblabamba"
+    },
+    {
+      "challenge_id": 102,
+      "correct": false,
+      "pred": "the",
+      "gold": "netherlandsneanderthals"
+    },
+    {
+      "challenge_id": 103,
+      "correct": false,
+      "pred": "the",
+      "gold": "austindustinjustin"
+    },
+    {
+      "challenge_id": 104,
+      "correct": false,
+      "pred": "the",
+      "gold": "charlesbronsoncharlottebrontecharlesbronsoncharlottebront"
+    },
+    {
+      "challenge_id": 105,
+      "correct": false,
+      "pred": "the",
+      "gold": "boisebelizeoslo"
+    },
+    {
+      "challenge_id": 106,
+      "correct": false,
+      "pred": "the",
+      "gold": "twirlwhirl"
+    },
+    {
+      "challenge_id": 107,
+      "correct": false,
+      "pred": "to",
+      "gold": "twentyone"
+    },
+    {
+      "challenge_id": 108,
+      "correct": false,
+      "pred": "the",
+      "gold": "spainparissyria"
+    },
+    {
+      "challenge_id": 109,
+      "correct": false,
+      "pred": "the",
+      "gold": "pepsicola"
+    },
+    {
+      "challenge_id": 110,
+      "correct": false,
+      "pred": "the",
+      "gold": "cellophanecellphone"
+    },
+    {
+      "challenge_id": 111,
+      "correct": false,
+      "pred": "the",
+      "gold": "baltimoreartmobile"
+    },
+    {
+      "challenge_id": 112,
+      "correct": false,
+      "pred": "the",
+      "gold": "belarusrubles"
+    },
+    {
+      "challenge_id": 113,
+      "correct": false,
+      "pred": "the",
+      "gold": "izodflaw"
+    },
+    {
+      "challenge_id": 114,
+      "correct": false,
+      "pred": "to",
+      "gold": "livcromannumeralsalphabetletters"
+    },
+    {
+      "challenge_id": 115,
+      "correct": false,
+      "pred": "the",
+      "gold": "evagaborrobagrave"
+    },
+    {
+      "challenge_id": 116,
+      "correct": false,
+      "pred": "the",
+      "gold": "halleberryhollyberry"
+    },
+    {
+      "challenge_id": 117,
+      "correct": false,
+      "pred": "the",
+      "gold": "ahoyyahoo"
+    },
+    {
+      "challenge_id": 118,
+      "correct": false,
+      "pred": "the",
+      "gold": "santafenewmexico"
+    },
+    {
+      "challenge_id": 119,
+      "correct": false,
+      "pred": "the",
+      "gold": "bertandernie"
+    },
+    {
+      "challenge_id": 120,
+      "correct": false,
+      "pred": "the",
+      "gold": "dugong"
+    },
+    {
+      "challenge_id": 121,
+      "correct": false,
+      "pred": "the",
+      "gold": "fortworthflatwoodswentworthpontoosuc"
+    },
+    {
+      "challenge_id": 122,
+      "correct": false,
+      "pred": "the",
+      "gold": "berlinbruneibeirut"
+    },
+    {
+      "challenge_id": 123,
+      "correct": false,
+      "pred": "the",
+      "gold": "bodyparttoebrainabshairface"
+    },
+    {
+      "challenge_id": 124,
+      "correct": false,
+      "pred": "the",
+      "gold": "phoenixknicksfee"
+    },
+    {
+      "challenge_id": 125,
+      "correct": false,
+      "pred": "the",
+      "gold": "stpeterstopentersaintpeterstopenter"
+    },
+    {
+      "challenge_id": 126,
+      "correct": false,
+      "pred": "the",
+      "gold": "erieeire"
+    },
+    {
+      "challenge_id": 127,
+      "correct": false,
+      "pred": "the",
+      "gold": "bellboybellbuoy"
+    },
+    {
+      "challenge_id": 128,
+      "correct": false,
+      "pred": "the",
+      "gold": "passfail"
+    },
+    {
+      "challenge_id": 129,
+      "correct": false,
+      "pred": "the",
+      "gold": "aesopsfables"
+    },
+    {
+      "challenge_id": 130,
+      "correct": false,
+      "pred": "the",
+      "gold": "roomandboardboardroom"
+    },
+    {
+      "challenge_id": 131,
+      "correct": false,
+      "pred": "the",
+      "gold": "marseillemarcelmarceau"
+    },
+    {
+      "challenge_id": 132,
+      "correct": false,
+      "pred": "the",
+      "gold": "jamieleecurtis"
+    },
+    {
+      "challenge_id": 133,
+      "correct": false,
+      "pred": "the",
+      "gold": "marcorubiotedcruzdemocrat"
+    },
+    {
+      "challenge_id": 134,
+      "correct": false,
+      "pred": "the",
+      "gold": "promoterprompter"
+    },
+    {
+      "challenge_id": 135,
+      "correct": false,
+      "pred": "the",
+      "gold": "bootiebowtie"
+    },
+    {
+      "challenge_id": 136,
+      "correct": false,
+      "pred": "calculator",
+      "gold": "googol"
+    },
+    {
+      "challenge_id": 137,
+      "correct": false,
+      "pred": "the",
+      "gold": "ranchermatred"
+    },
+    {
+      "challenge_id": 138,
+      "correct": false,
+      "pred": "the",
+      "gold": "ukrainekoreanlebanonalbanianugandagondi"
+    },
+    {
+      "challenge_id": 139,
+      "correct": false,
+      "pred": "the",
+      "gold": "aidesasideideasaimedamidemedia"
+    },
+    {
+      "challenge_id": 140,
+      "correct": false,
+      "pred": "the",
+      "gold": "cakepanpancake"
+    },
+    {
+      "challenge_id": 141,
+      "correct": false,
+      "pred": "the",
+      "gold": "anthonyhopkinsanthonyperkinsdennishopper"
+    },
+    {
+      "challenge_id": 142,
+      "correct": false,
+      "pred": "the",
+      "gold": "chairmanmao"
+    },
+    {
+      "challenge_id": 143,
+      "correct": false,
+      "pred": "the",
+      "gold": "herbalpert"
+    },
+    {
+      "challenge_id": 144,
+      "correct": false,
+      "pred": "the",
+      "gold": "lorettalynchlorettalynn"
+    },
+    {
+      "challenge_id": 145,
+      "correct": false,
+      "pred": "the",
+      "gold": "roastchickenchickenroost"
+    },
+    {
+      "challenge_id": 146,
+      "correct": false,
+      "pred": "to",
+      "gold": ""
+    },
+    {
+      "challenge_id": 147,
+      "correct": false,
+      "pred": "the",
+      "gold": "bartenderbender"
+    },
+    {
+      "challenge_id": 148,
+      "correct": false,
+      "pred": "the",
+      "gold": "anagramthestarspangledbanner"
+    },
+    {
+      "challenge_id": 149,
+      "correct": false,
+      "pred": "the",
+      "gold": "walgreensalgreen"
+    },
+    {
+      "challenge_id": 150,
+      "correct": false,
+      "pred": "the",
+      "gold": "colinpowellcolpow"
+    },
+    {
+      "challenge_id": 151,
+      "correct": false,
+      "pred": "the",
+      "gold": "seatbeltseattle"
+    },
+    {
+      "challenge_id": 152,
+      "correct": false,
+      "pred": "the",
+      "gold": "bunnyharehoneybear"
+    },
+    {
+      "challenge_id": 153,
+      "correct": false,
+      "pred": "the",
+      "gold": "screwdriverdriverscrewscrewdriverdriverscrew"
+    },
+    {
+      "challenge_id": 154,
+      "correct": false,
+      "pred": "the",
+      "gold": "waistbandwasteland"
+    },
+    {
+      "challenge_id": 155,
+      "correct": false,
+      "pred": "the",
+      "gold": "teetertotter"
+    },
+    {
+      "challenge_id": 156,
+      "correct": false,
+      "pred": "the",
+      "gold": "mountdenali"
+    },
+    {
+      "challenge_id": 157,
+      "correct": false,
+      "pred": "the",
+      "gold": "supermanmanpurse"
+    },
+    {
+      "challenge_id": 158,
+      "correct": false,
+      "pred": "the",
+      "gold": "bluessingerboozeslinger"
+    },
+    {
+      "challenge_id": 159,
+      "correct": false,
+      "pred": "the",
+      "gold": "euclidilduce"
+    },
+    {
+      "challenge_id": 160,
+      "correct": false,
+      "pred": "the",
+      "gold": "allvowelsexactlyoncefivevowelsexactlyonce"
+    },
+    {
+      "challenge_id": 161,
+      "correct": false,
+      "pred": "the",
+      "gold": "ryanonealanyone"
+    },
+    {
+      "challenge_id": 163,
+      "correct": false,
+      "pred": "the",
+      "gold": "halloweenpumpkin"
+    },
+    {
+      "challenge_id": 164,
+      "correct": false,
+      "pred": "the",
+      "gold": "greenhornetsethrogen"
+    },
+    {
+      "challenge_id": 165,
+      "correct": false,
+      "pred": "the",
+      "gold": "stpaultulsasalemmesa"
+    },
+    {
+      "challenge_id": 166,
+      "correct": false,
+      "pred": "the",
+      "gold": "cateblanchettcarteblanche"
+    },
+    {
+      "challenge_id": 167,
+      "correct": false,
+      "pred": "the",
+      "gold": "turkeybreastturkeybasterskislopeskipolescashdrawercashreward"
+    },
+    {
+      "challenge_id": 168,
+      "correct": false,
+      "pred": "the",
+      "gold": "gememerald"
+    },
+    {
+      "challenge_id": 169,
+      "correct": false,
+      "pred": "the",
+      "gold": "minutetime"
+    },
+    {
+      "challenge_id": 170,
+      "correct": false,
+      "pred": "the",
+      "gold": "wholeholehoehoerherhearheart"
+    },
+    {
+      "challenge_id": 171,
+      "correct": false,
+      "pred": "the",
+      "gold": "terigarrtigerroar"
+    },
+    {
+      "challenge_id": 172,
+      "correct": false,
+      "pred": "the",
+      "gold": "strangerstringerstronger"
+    },
+    {
+      "challenge_id": 173,
+      "correct": false,
+      "pred": "the",
+      "gold": "breadbaker"
+    },
+    {
+      "challenge_id": 174,
+      "correct": false,
+      "pred": "the",
+      "gold": "scoliosissilicosis"
+    },
+    {
+      "challenge_id": 175,
+      "correct": false,
+      "pred": "the",
+      "gold": "strengthsstrenuous"
+    },
+    {
+      "challenge_id": 176,
+      "correct": false,
+      "pred": "the",
+      "gold": "juliannemooremariannemoore"
+    },
+    {
+      "challenge_id": 177,
+      "correct": false,
+      "pred": "the",
+      "gold": "divefivegivehivejive"
+    },
+    {
+      "challenge_id": 178,
+      "correct": false,
+      "pred": "the",
+      "gold": "triangleintegral"
+    },
+    {
+      "challenge_id": 179,
+      "correct": false,
+      "pred": "the",
+      "gold": "oliverolivier"
+    },
+    {
+      "challenge_id": 180,
+      "correct": false,
+      "pred": "the",
+      "gold": "sneakersspeakersslipperssnippers"
+    },
+    {
+      "challenge_id": 181,
+      "correct": false,
+      "pred": "the",
+      "gold": "ruler"
+    },
+    {
+      "challenge_id": 182,
+      "correct": false,
+      "pred": "the",
+      "gold": "cameracapra"
+    },
+    {
+      "challenge_id": 183,
+      "correct": false,
+      "pred": "the",
+      "gold": "butterflylyftuber"
+    },
+    {
+      "challenge_id": 184,
+      "correct": false,
+      "pred": "the",
+      "gold": "thermometermothermom"
+    },
+    {
+      "challenge_id": 185,
+      "correct": false,
+      "pred": "the",
+      "gold": "gatewaygetaway"
+    },
+    {
+      "challenge_id": 186,
+      "correct": false,
+      "pred": "the",
+      "gold": "mariahcareyhaircare"
+    },
+    {
+      "challenge_id": 187,
+      "correct": false,
+      "pred": "the",
+      "gold": "roughwrought"
+    },
+    {
+      "challenge_id": 188,
+      "correct": false,
+      "pred": "the",
+      "gold": "quarturaqtcubiticbut"
+    },
+    {
+      "challenge_id": 189,
+      "correct": false,
+      "pred": "the",
+      "gold": "richardgerecharger"
+    },
+    {
+      "challenge_id": 190,
+      "correct": false,
+      "pred": "the",
+      "gold": ""
+    },
+    {
+      "challenge_id": 191,
+      "correct": false,
+      "pred": "the",
+      "gold": "pietintiepin"
+    },
+    {
+      "challenge_id": 192,
+      "correct": false,
+      "pred": "the",
+      "gold": "nancypelosispainceylon"
+    },
+    {
+      "challenge_id": 193,
+      "correct": false,
+      "pred": "the",
+      "gold": "themiamiheat"
+    },
+    {
+      "challenge_id": 194,
+      "correct": false,
+      "pred": "the",
+      "gold": "shorttallsharpdullshantwillshakystill"
+    },
+    {
+      "challenge_id": 195,
+      "correct": false,
+      "pred": "the",
+      "gold": "miamiflflintmi"
+    },
+    {
+      "challenge_id": 196,
+      "correct": false,
+      "pred": "the",
+      "gold": "thailandhandtail"
+    },
+    {
+      "challenge_id": 197,
+      "correct": false,
+      "pred": "the",
+      "gold": "michaelphelpsmicas"
+    },
+    {
+      "challenge_id": 198,
+      "correct": false,
+      "pred": "ir",
+      "gold": "acrossclaretcaviaremigreponiestrends"
+    },
+    {
+      "challenge_id": 199,
+      "correct": false,
+      "pred": "the",
+      "gold": "hereandnownowhere"
+    },
+    {
+      "challenge_id": 200,
+      "correct": false,
+      "pred": "the",
+      "gold": "continents"
+    },
+    {
+      "challenge_id": 201,
+      "correct": false,
+      "pred": "the",
+      "gold": "sternstem"
+    },
+    {
+      "challenge_id": 202,
+      "correct": false,
+      "pred": "the",
+      "gold": "reignedreignited"
+    },
+    {
+      "challenge_id": 203,
+      "correct": false,
+      "pred": "the",
+      "gold": "gracekellygrapejelly"
+    },
+    {
+      "challenge_id": 204,
+      "correct": false,
+      "pred": "the",
+      "gold": "hairdressershearsdrier"
+    },
+    {
+      "challenge_id": 205,
+      "correct": false,
+      "pred": "the",
+      "gold": "foulsoulghoul"
+    },
+    {
+      "challenge_id": 207,
+      "correct": false,
+      "pred": "the",
+      "gold": "voteaqui"
+    },
+    {
+      "challenge_id": 208,
+      "correct": false,
+      "pred": "the",
+      "gold": "mcmullinmcmuffin"
+    },
+    {
+      "challenge_id": 209,
+      "correct": false,
+      "pred": "the",
+      "gold": "usgrantreleecgeneralcuster"
+    },
+    {
+      "challenge_id": 210,
+      "correct": false,
+      "pred": "the",
+      "gold": "atworst"
+    },
+    {
+      "challenge_id": 211,
+      "correct": false,
+      "pred": "the",
+      "gold": "kirstiealleystrikealley"
+    },
+    {
+      "challenge_id": 212,
+      "correct": false,
+      "pred": "we",
+      "gold": "allvowelsexactlyoncefivevowelsexactlyonce"
+    },
+    {
+      "challenge_id": 213,
+      "correct": false,
+      "pred": "the",
+      "gold": "martinshortmarsthor"
+    },
+    {
+      "challenge_id": 214,
+      "correct": false,
+      "pred": "the",
+      "gold": "virginwoolvirginiawoolf"
+    },
+    {
+      "challenge_id": 215,
+      "correct": false,
+      "pred": "dave",
+      "gold": "abramblanerandyandremeyer"
+    },
+    {
+      "challenge_id": 216,
+      "correct": false,
+      "pred": "the",
+      "gold": "greenpartygreenpartee"
+    },
+    {
+      "challenge_id": 217,
+      "correct": false,
+      "pred": "the",
+      "gold": "skortskirtshirtshift"
+    },
+    {
+      "challenge_id": 218,
+      "correct": false,
+      "pred": "the",
+      "gold": "napkinssinkpan"
+    },
+    {
+      "challenge_id": 219,
+      "correct": false,
+      "pred": "the",
+      "gold": "frogogre"
+    },
+    {
+      "challenge_id": 220,
+      "correct": false,
+      "pred": "the",
+      "gold": "herwasherwasherwastebasketherwas"
+    },
+    {
+      "challenge_id": 221,
+      "correct": false,
+      "pred": "the",
+      "gold": "ireadyouidareyou"
+    },
+    {
+      "challenge_id": 222,
+      "correct": false,
+      "pred": "the",
+      "gold": "coralgablesfablesmoral"
+    },
+    {
+      "challenge_id": 223,
+      "correct": false,
+      "pred": "the",
+      "gold": "crapscards"
+    },
+    {
+      "challenge_id": 224,
+      "correct": false,
+      "pred": "the",
+      "gold": "jacklemmon"
+    },
+    {
+      "challenge_id": 225,
+      "correct": false,
+      "pred": "the",
+      "gold": "bruceleeloosebrie"
+    },
+    {
+      "challenge_id": 226,
+      "correct": false,
+      "pred": "the",
+      "gold": "santafemantaray"
+    },
+    {
+      "challenge_id": 227,
+      "correct": false,
+      "pred": "the",
+      "gold": "liammilalimamali"
+    },
+    {
+      "challenge_id": 228,
+      "correct": false,
+      "pred": "the",
+      "gold": "knifegriddlefridgekindle"
+    },
+    {
+      "challenge_id": 229,
+      "correct": false,
+      "pred": "the",
+      "gold": "seaturtleseattle"
+    },
+    {
+      "challenge_id": 230,
+      "correct": false,
+      "pred": "the",
+      "gold": "theartsheartear"
+    },
+    {
+      "challenge_id": 231,
+      "correct": false,
+      "pred": "the",
+      "gold": "letterscountryname"
+    },
+    {
+      "challenge_id": 232,
+      "correct": false,
+      "pred": "the",
+      "gold": "corpuschristichristiecorpus"
+    },
+    {
+      "challenge_id": 233,
+      "correct": false,
+      "pred": "to",
+      "gold": ""
+    },
+    {
+      "challenge_id": 234,
+      "correct": false,
+      "pred": "the",
+      "gold": "kidmanshakira"
+    },
+    {
+      "challenge_id": 235,
+      "correct": false,
+      "pred": "the",
+      "gold": "swiftfastwaitstaff"
+    },
+    {
+      "challenge_id": 236,
+      "correct": false,
+      "pred": "the",
+      "gold": "candidcameraamericandad"
+    },
+    {
+      "challenge_id": 237,
+      "correct": false,
+      "pred": "the",
+      "gold": "orangutan"
+    },
+    {
+      "challenge_id": 238,
+      "correct": false,
+      "pred": "the",
+      "gold": "zionillinois"
+    },
+    {
+      "challenge_id": 239,
+      "correct": false,
+      "pred": "the",
+      "gold": "historyteacher"
+    },
+    {
+      "challenge_id": 240,
+      "correct": false,
+      "pred": "the",
+      "gold": "floatlikeabutterflystinglikeabeeflabslab"
+    },
+    {
+      "challenge_id": 241,
+      "correct": false,
+      "pred": "the",
+      "gold": "hotelcalifornia"
+    },
+    {
+      "challenge_id": 242,
+      "correct": false,
+      "pred": "the",
+      "gold": "aurevoir"
+    },
+    {
+      "challenge_id": 244,
+      "correct": false,
+      "pred": "the",
+      "gold": "flangumbo"
+    },
+    {
+      "challenge_id": 245,
+      "correct": false,
+      "pred": "the",
+      "gold": "austindustinjustin"
+    },
+    {
+      "challenge_id": 246,
+      "correct": false,
+      "pred": "the",
+      "gold": "audimazdasubaruteslahondanissan"
+    },
+    {
+      "challenge_id": 247,
+      "correct": false,
+      "pred": "the",
+      "gold": "denvermontevideovermontdovermontevideovermont"
+    },
+    {
+      "challenge_id": 248,
+      "correct": false,
+      "pred": "the",
+      "gold": "francisfordsofiacoppola"
+    },
+    {
+      "challenge_id": 249,
+      "correct": false,
+      "pred": "the",
+      "gold": "tibetantin"
+    },
+    {
+      "challenge_id": 250,
+      "correct": false,
+      "pred": "the",
+      "gold": "wallawallawashington"
+    },
+    {
+      "challenge_id": 251,
+      "correct": false,
+      "pred": "the",
+      "gold": "yellowpagesyelp"
+    },
+    {
+      "challenge_id": 252,
+      "correct": false,
+      "pred": "the",
+      "gold": "subaruurabussubaruyouareabus"
+    },
+    {
+      "challenge_id": 253,
+      "correct": false,
+      "pred": "the",
+      "gold": "yeomanyeomenomanyemen"
+    },
+    {
+      "challenge_id": 254,
+      "correct": false,
+      "pred": "the",
+      "gold": "nomdeplumepennamephnompenh"
+    },
+    {
+      "challenge_id": 255,
+      "correct": false,
+      "pred": "the",
+      "gold": "gondolalagoon"
+    },
+    {
+      "challenge_id": 256,
+      "correct": false,
+      "pred": "the",
+      "gold": "djakartadakar"
+    },
+    {
+      "challenge_id": 257,
+      "correct": false,
+      "pred": "the",
+      "gold": "cokierobertsscooterbike"
+    },
+    {
+      "challenge_id": 258,
+      "correct": false,
+      "pred": "the",
+      "gold": "bobdylanboyband"
+    },
+    {
+      "challenge_id": 259,
+      "correct": false,
+      "pred": "the",
+      "gold": "kenyanairobikenobi"
+    },
+    {
+      "challenge_id": 260,
+      "correct": false,
+      "pred": "the",
+      "gold": "tonsilnostril"
+    },
+    {
+      "challenge_id": 261,
+      "correct": false,
+      "pred": "the",
+      "gold": "waswhat"
+    },
+    {
+      "challenge_id": 262,
+      "correct": false,
+      "pred": "the",
+      "gold": "alecguinness"
+    },
+    {
+      "challenge_id": 263,
+      "correct": false,
+      "pred": "the",
+      "gold": "labambalambbaa"
+    },
+    {
+      "challenge_id": 264,
+      "correct": false,
+      "pred": "the",
+      "gold": "belttieletitbe"
+    },
+    {
+      "challenge_id": 265,
+      "correct": false,
+      "pred": "the",
+      "gold": "whitneyhoustonwhitehouse"
+    },
+    {
+      "challenge_id": 266,
+      "correct": false,
+      "pred": "the",
+      "gold": "newmexicooxenmice"
+    },
+    {
+      "challenge_id": 267,
+      "correct": false,
+      "pred": "the",
+      "gold": "spikeleepikeeel"
+    },
+    {
+      "challenge_id": 268,
+      "correct": false,
+      "pred": "the",
+      "gold": "mexicooxmice"
+    },
+    {
+      "challenge_id": 269,
+      "correct": false,
+      "pred": "the",
+      "gold": "brainbahrain"
+    },
+    {
+      "challenge_id": 270,
+      "correct": false,
+      "pred": "to",
+      "gold": "eightlettersletters"
+    },
+    {
+      "challenge_id": 271,
+      "correct": false,
+      "pred": "the",
+      "gold": "hopearhopear"
+    },
+    {
+      "challenge_id": 272,
+      "correct": false,
+      "pred": "the",
+      "gold": "heavensgatetheavengers"
+    },
+    {
+      "challenge_id": 273,
+      "correct": false,
+      "pred": "the",
+      "gold": "himomimhome"
+    },
+    {
+      "challenge_id": 274,
+      "correct": false,
+      "pred": "the",
+      "gold": "pyromaniacromania"
+    },
+    {
+      "challenge_id": 275,
+      "correct": false,
+      "pred": "the",
+      "gold": "rodcarewroadcrew"
+    },
+    {
+      "challenge_id": 276,
+      "correct": false,
+      "pred": "the",
+      "gold": "visvisvisaavis"
+    },
+    {
+      "challenge_id": 277,
+      "correct": false,
+      "pred": "the",
+      "gold": "abdomenbadomen"
+    },
+    {
+      "challenge_id": 278,
+      "correct": false,
+      "pred": "the",
+      "gold": "browniebrowknee"
+    },
+    {
+      "challenge_id": 279,
+      "correct": false,
+      "pred": "the",
+      "gold": "alcaponealpacino"
+    },
+    {
+      "challenge_id": 280,
+      "correct": false,
+      "pred": "the",
+      "gold": "baronesssenora"
+    },
+    {
+      "challenge_id": 281,
+      "correct": false,
+      "pred": "the",
+      "gold": "chevroletchexrolex"
+    },
+    {
+      "challenge_id": 282,
+      "correct": false,
+      "pred": "the",
+      "gold": "kelloggseggyolks"
+    },
+    {
+      "challenge_id": 283,
+      "correct": false,
+      "pred": "the",
+      "gold": "earthmarssaturnneptuneearthmarssaturnneptune"
+    },
+    {
+      "challenge_id": 284,
+      "correct": false,
+      "pred": "the",
+      "gold": "mailslotmaillots"
+    },
+    {
+      "challenge_id": 285,
+      "correct": false,
+      "pred": "the",
+      "gold": "ebolaherod"
+    },
+    {
+      "challenge_id": 286,
+      "correct": false,
+      "pred": "the",
+      "gold": "providencerilansingmisalemorcolumbiascindianapolisin"
+    },
+    {
+      "challenge_id": 287,
+      "correct": false,
+      "pred": "the",
+      "gold": "mobilebaymobilebay"
+    },
+    {
+      "challenge_id": 288,
+      "correct": false,
+      "pred": "the",
+      "gold": "guillermodeltoromodeltdennissandersnissan"
+    },
+    {
+      "challenge_id": 289,
+      "correct": false,
+      "pred": "the",
+      "gold": "louisarmstrongsatchmostomach"
+    },
+    {
+      "challenge_id": 290,
+      "correct": false,
+      "pred": "the",
+      "gold": "orbhuemet"
+    },
+    {
+      "challenge_id": 291,
+      "correct": false,
+      "pred": "the",
+      "gold": "gloriasteinemfeminist"
+    },
+    {
+      "challenge_id": 292,
+      "correct": false,
+      "pred": "the",
+      "gold": "missmississippi"
+    },
+    {
+      "challenge_id": 293,
+      "correct": false,
+      "pred": "the",
+      "gold": "redsoxrxdose"
+    },
+    {
+      "challenge_id": 294,
+      "correct": false,
+      "pred": "to",
+      "gold": ""
+    },
+    {
+      "challenge_id": 295,
+      "correct": false,
+      "pred": "the",
+      "gold": "bringuptherear"
+    },
+    {
+      "challenge_id": 296,
+      "correct": false,
+      "pred": "the",
+      "gold": "monokinikimono"
+    },
+    {
+      "challenge_id": 297,
+      "correct": false,
+      "pred": "the",
+      "gold": "mammaliamammamia"
+    },
+    {
+      "challenge_id": 298,
+      "correct": false,
+      "pred": "the",
+      "gold": "wishingwellwellwishing"
+    },
+    {
+      "challenge_id": 299,
+      "correct": false,
+      "pred": "the",
+      "gold": "atlasshruggeddaughtersgals"
+    },
+    {
+      "challenge_id": 300,
+      "correct": false,
+      "pred": "the",
+      "gold": "crapstabletablescrap"
+    },
+    {
+      "challenge_id": 301,
+      "correct": false,
+      "pred": "the",
+      "gold": "throughthoughtroughtough"
+    },
+    {
+      "challenge_id": 302,
+      "correct": false,
+      "pred": "the",
+      "gold": "nestlesweetnlow"
+    },
+    {
+      "challenge_id": 303,
+      "correct": false,
+      "pred": "the",
+      "gold": "pianomanpainmoan"
+    },
+    {
+      "challenge_id": 304,
+      "correct": false,
+      "pred": "the",
+      "gold": "abandoned"
+    },
+    {
+      "challenge_id": 305,
+      "correct": false,
+      "pred": "the",
+      "gold": "sacramentoscentaroma"
+    },
+    {
+      "challenge_id": 306,
+      "correct": false,
+      "pred": "the",
+      "gold": "moscowmoocowmoscowmoocow"
+    },
+    {
+      "challenge_id": 307,
+      "correct": false,
+      "pred": "the",
+      "gold": "movie"
+    },
+    {
+      "challenge_id": 308,
+      "correct": false,
+      "pred": "the",
+      "gold": "nineinchnailsaliceinchains"
+    },
+    {
+      "challenge_id": 309,
+      "correct": false,
+      "pred": "the",
+      "gold": "inletisletbaycay"
+    },
+    {
+      "challenge_id": 310,
+      "correct": false,
+      "pred": "the",
+      "gold": "armytankamytan"
+    },
+    {
+      "challenge_id": 311,
+      "correct": false,
+      "pred": "the",
+      "gold": "heinekenmeineke"
+    },
+    {
+      "challenge_id": 312,
+      "correct": false,
+      "pred": "to",
+      "gold": "seeeyetoeye"
+    },
+    {
+      "challenge_id": 313,
+      "correct": false,
+      "pred": "the",
+      "gold": "woolloom"
+    },
+    {
+      "challenge_id": 314,
+      "correct": false,
+      "pred": "the",
+      "gold": "littlecaesarseclairslattes"
+    },
+    {
+      "challenge_id": 315,
+      "correct": false,
+      "pred": "the",
+      "gold": "labrealaarea"
+    },
+    {
+      "challenge_id": 316,
+      "correct": false,
+      "pred": "the",
+      "gold": "nihaohanoi"
+    },
+    {
+      "challenge_id": 317,
+      "correct": false,
+      "pred": "the",
+      "gold": "sneaksnake"
+    },
+    {
+      "challenge_id": 318,
+      "correct": false,
+      "pred": "the",
+      "gold": "spainpais"
+    },
+    {
+      "challenge_id": 319,
+      "correct": false,
+      "pred": "when",
+      "gold": "boxofficeboxofrice"
+    },
+    {
+      "challenge_id": 320,
+      "correct": false,
+      "pred": "the",
+      "gold": "hieroglyphistegypt"
+    },
+    {
+      "challenge_id": 321,
+      "correct": false,
+      "pred": "the",
+      "gold": "boxcaroxcart"
+    },
+    {
+      "challenge_id": 322,
+      "correct": false,
+      "pred": "the",
+      "gold": "astarisbornbaronsirtsar"
+    },
+    {
+      "challenge_id": 323,
+      "correct": false,
+      "pred": "the",
+      "gold": "artsandcraftscartsrafts"
+    },
+    {
+      "challenge_id": 324,
+      "correct": false,
+      "pred": "the",
+      "gold": "malinigermalinger"
+    },
+    {
+      "challenge_id": 325,
+      "correct": false,
+      "pred": "the",
+      "gold": "siouxfallslourawls"
+    },
+    {
+      "challenge_id": 326,
+      "correct": false,
+      "pred": "the",
+      "gold": "lencarioualicemunro"
+    },
+    {
+      "challenge_id": 327,
+      "correct": false,
+      "pred": "the",
+      "gold": "strikestrucktriketruck"
+    },
+    {
+      "challenge_id": 328,
+      "correct": false,
+      "pred": "the",
+      "gold": "ayeouiyeaoui"
+    },
+    {
+      "challenge_id": 329,
+      "correct": false,
+      "pred": "the",
+      "gold": "debitcardbadcredit"
+    },
+    {
+      "challenge_id": 330,
+      "correct": false,
+      "pred": "the",
+      "gold": "dromedariesromearies"
+    },
+    {
+      "challenge_id": 331,
+      "correct": false,
+      "pred": "the",
+      "gold": "vietnam"
+    },
+    {
+      "challenge_id": 332,
+      "correct": false,
+      "pred": "the",
+      "gold": "prescriptionrx"
+    },
+    {
+      "challenge_id": 333,
+      "correct": false,
+      "pred": "to",
+      "gold": "fiftyfive"
+    },
+    {
+      "challenge_id": 334,
+      "correct": false,
+      "pred": "the",
+      "gold": "sparsspearssparessparse"
+    },
+    {
+      "challenge_id": 335,
+      "correct": false,
+      "pred": "the",
+      "gold": "hihellohighlow"
+    },
+    {
+      "challenge_id": 336,
+      "correct": false,
+      "pred": "the",
+      "gold": "wizard"
+    },
+    {
+      "challenge_id": 337,
+      "correct": false,
+      "pred": "the",
+      "gold": "phonyfaux"
+    },
+    {
+      "challenge_id": 338,
+      "correct": false,
+      "pred": "the",
+      "gold": "portauprinceratporcupine"
+    },
+    {
+      "challenge_id": 339,
+      "correct": false,
+      "pred": "the",
+      "gold": "drozdrno"
+    },
+    {
+      "challenge_id": 340,
+      "correct": false,
+      "pred": "the",
+      "gold": "mh"
+    },
+    {
+      "challenge_id": 342,
+      "correct": false,
+      "pred": "the",
+      "gold": "tackledfumbled"
+    },
+    {
+      "challenge_id": 343,
+      "correct": false,
+      "pred": "the",
+      "gold": "joeoj"
+    },
+    {
+      "challenge_id": 344,
+      "correct": false,
+      "pred": "the",
+      "gold": "lollipopapplepie"
+    },
+    {
+      "challenge_id": 345,
+      "correct": false,
+      "pred": "the",
+      "gold": "businesswomen"
+    },
+    {
+      "challenge_id": 346,
+      "correct": false,
+      "pred": "the",
+      "gold": "charlestonsc"
+    },
+    {
+      "challenge_id": 347,
+      "correct": false,
+      "pred": "the",
+      "gold": "enterleaverelevant"
+    },
+    {
+      "challenge_id": 349,
+      "correct": false,
+      "pred": "the",
+      "gold": "yourstruly"
+    },
+    {
+      "challenge_id": 350,
+      "correct": false,
+      "pred": "the",
+      "gold": "piersmorgannewsprogram"
+    },
+    {
+      "challenge_id": 351,
+      "correct": false,
+      "pred": "the",
+      "gold": "stuckonesneckout"
+    },
+    {
+      "challenge_id": 352,
+      "correct": false,
+      "pred": "the",
+      "gold": "creamcheeseschmear"
+    },
+    {
+      "challenge_id": 353,
+      "correct": false,
+      "pred": "the",
+      "gold": "redpepper"
+    },
+    {
+      "challenge_id": 355,
+      "correct": false,
+      "pred": "the",
+      "gold": "heartbeatbreatheeat"
+    },
+    {
+      "challenge_id": 356,
+      "correct": false,
+      "pred": "the",
+      "gold": "twoleftfeet"
+    },
+    {
+      "challenge_id": 357,
+      "correct": false,
+      "pred": "the",
+      "gold": "nogginnoggin"
+    },
+    {
+      "challenge_id": 358,
+      "correct": false,
+      "pred": "the",
+      "gold": "justintrudeautrustinjudo"
+    },
+    {
+      "challenge_id": 359,
+      "correct": false,
+      "pred": "the",
+      "gold": "subpoenaed"
+    },
+    {
+      "challenge_id": 360,
+      "correct": false,
+      "pred": "the",
+      "gold": "amsterdam"
+    },
+    {
+      "challenge_id": 361,
+      "correct": false,
+      "pred": "the",
+      "gold": "billieeilish"
+    },
+    {
+      "challenge_id": 362,
+      "correct": false,
+      "pred": "the",
+      "gold": "undercoveragent"
+    },
+    {
+      "challenge_id": 363,
+      "correct": false,
+      "pred": "the",
+      "gold": "colleenmccullough"
+    },
+    {
+      "challenge_id": 364,
+      "correct": false,
+      "pred": "the",
+      "gold": "celinedionlionfeline"
+    },
+    {
+      "challenge_id": 365,
+      "correct": false,
+      "pred": "the",
+      "gold": "perfectsquaressquares"
+    },
+    {
+      "challenge_id": 366,
+      "correct": false,
+      "pred": "the",
+      "gold": "highwaisted"
+    },
+    {
+      "challenge_id": 367,
+      "correct": false,
+      "pred": "the",
+      "gold": "cribbageribcagecribbageribcage"
+    },
+    {
+      "challenge_id": 368,
+      "correct": false,
+      "pred": "the",
+      "gold": "earlobeearlarlo"
+    },
+    {
+      "challenge_id": 369,
+      "correct": false,
+      "pred": "the",
+      "gold": "largesargesergevergeverseterseteaseceasechasechasmcharmchardshardsharestarestalestallsmall"
+    },
+    {
+      "challenge_id": 370,
+      "correct": false,
+      "pred": "the",
+      "gold": "planotexasplaytex"
+    },
+    {
+      "challenge_id": 371,
+      "correct": false,
+      "pred": "the",
+      "gold": "beijingbeing"
+    },
+    {
+      "challenge_id": 372,
+      "correct": false,
+      "pred": "the",
+      "gold": "toyotacorollacoyotegorilla"
+    },
+    {
+      "challenge_id": 373,
+      "correct": false,
+      "pred": "the",
+      "gold": "nearanddearwearandtear"
+    },
+    {
+      "challenge_id": 374,
+      "correct": false,
+      "pred": "the",
+      "gold": "alcatrazalcapone"
+    },
+    {
+      "challenge_id": 375,
+      "correct": false,
+      "pred": "the",
+      "gold": "lulugarcianavarrolugano"
+    },
+    {
+      "challenge_id": 376,
+      "correct": false,
+      "pred": "the",
+      "gold": "boughcoughdough"
+    },
+    {
+      "challenge_id": 377,
+      "correct": false,
+      "pred": "the",
+      "gold": "tacobellcoalbelt"
+    },
+    {
+      "challenge_id": 378,
+      "correct": false,
+      "pred": "the",
+      "gold": "outfitoutofit"
+    },
+    {
+      "challenge_id": 379,
+      "correct": false,
+      "pred": "the",
+      "gold": "rolloverrover"
+    },
+    {
+      "challenge_id": 380,
+      "correct": false,
+      "pred": "the",
+      "gold": "normalcynormalcy"
+    },
+    {
+      "challenge_id": 381,
+      "correct": false,
+      "pred": "the",
+      "gold": "swineswnenyalanylaskunksknk"
+    },
+    {
+      "challenge_id": 382,
+      "correct": false,
+      "pred": "the",
+      "gold": "capeofgoodhope"
+    },
+    {
+      "challenge_id": 383,
+      "correct": false,
+      "pred": "the",
+      "gold": "orlanssalerno"
+    },
+    {
+      "challenge_id": 384,
+      "correct": false,
+      "pred": "the",
+      "gold": "martinsheen"
+    },
+    {
+      "challenge_id": 385,
+      "correct": false,
+      "pred": "the",
+      "gold": "elonmuskklmnosueelonmuskklmnosue"
+    },
+    {
+      "challenge_id": 386,
+      "correct": false,
+      "pred": "the",
+      "gold": "dryheathydrate"
+    },
+    {
+      "challenge_id": 387,
+      "correct": false,
+      "pred": "the",
+      "gold": "johnwaynejuanjane"
+    },
+    {
+      "challenge_id": 388,
+      "correct": false,
+      "pred": "the",
+      "gold": "michaelcainecinema"
+    },
+    {
+      "challenge_id": 389,
+      "correct": false,
+      "pred": "the",
+      "gold": "persephonepursephone"
+    },
+    {
+      "challenge_id": 390,
+      "correct": false,
+      "pred": "the",
+      "gold": "marcopolopoolcarom"
+    },
+    {
+      "challenge_id": 391,
+      "correct": false,
+      "pred": "the",
+      "gold": "budapestbuddypest"
+    },
+    {
+      "challenge_id": 392,
+      "correct": false,
+      "pred": "the",
+      "gold": "avocadossodacola"
+    },
+    {
+      "challenge_id": 393,
+      "correct": false,
+      "pred": "the",
+      "gold": "daiquiri"
+    },
+    {
+      "challenge_id": 394,
+      "correct": false,
+      "pred": "the",
+      "gold": "sydneywendys"
+    },
+    {
+      "challenge_id": 395,
+      "correct": false,
+      "pred": "the",
+      "gold": "seaturtleseattle"
+    },
+    {
+      "challenge_id": 396,
+      "correct": false,
+      "pred": "the",
+      "gold": "perrymasonpraysermon"
+    },
+    {
+      "challenge_id": 397,
+      "correct": false,
+      "pred": "the",
+      "gold": "propernoun"
+    },
+    {
+      "challenge_id": 398,
+      "correct": false,
+      "pred": "the",
+      "gold": "greenbaygreenday"
+    },
+    {
+      "challenge_id": 399,
+      "correct": false,
+      "pred": "the",
+      "gold": "deflate"
+    },
+    {
+      "challenge_id": 400,
+      "correct": false,
+      "pred": "the",
+      "gold": "bonusraise"
+    },
+    {
+      "challenge_id": 401,
+      "correct": false,
+      "pred": "the",
+      "gold": "donnerreindeerdonderreindeer"
+    },
+    {
+      "challenge_id": 402,
+      "correct": false,
+      "pred": "the",
+      "gold": "tidbit"
+    },
+    {
+      "challenge_id": 403,
+      "correct": false,
+      "pred": "the",
+      "gold": "revealed"
+    },
+    {
+      "challenge_id": 404,
+      "correct": false,
+      "pred": "a",
+      "gold": "qtpicutiepiecutiepieqt"
+    },
+    {
+      "challenge_id": 405,
+      "correct": false,
+      "pred": "let",
+      "gold": "hooverdamtinvermontidaho"
+    },
+    {
+      "challenge_id": 406,
+      "correct": false,
+      "pred": "the",
+      "gold": "binladenbiden"
+    },
+    {
+      "challenge_id": 407,
+      "correct": false,
+      "pred": "the",
+      "gold": "barbquebaroque"
+    },
+    {
+      "challenge_id": 408,
+      "correct": false,
+      "pred": "the",
+      "gold": "queueup"
+    },
+    {
+      "challenge_id": 409,
+      "correct": false,
+      "pred": "the",
+      "gold": "friedrichnietzschefriedricechinese"
+    },
+    {
+      "challenge_id": 410,
+      "correct": false,
+      "pred": "the",
+      "gold": "johnhurt"
+    },
+    {
+      "challenge_id": 411,
+      "correct": false,
+      "pred": "the",
+      "gold": "antonyblinken"
+    },
+    {
+      "challenge_id": 413,
+      "correct": false,
+      "pred": "the",
+      "gold": "greekenglishalphabets"
+    },
+    {
+      "challenge_id": 414,
+      "correct": false,
+      "pred": "the",
+      "gold": "ochorios"
+    },
+    {
+      "challenge_id": 415,
+      "correct": false,
+      "pred": "the",
+      "gold": "surinameusmarinemyanmararmymanarmeniaamarine"
+    },
+    {
+      "challenge_id": 416,
+      "correct": false,
+      "pred": "the",
+      "gold": "oscarmayermetrogoldwynmayer"
+    },
+    {
+      "challenge_id": 417,
+      "correct": false,
+      "pred": "the",
+      "gold": "markruffalolarkbuffalo"
+    },
+    {
+      "challenge_id": 418,
+      "correct": false,
+      "pred": "the",
+      "gold": "kneecapnnapeneck"
+    },
+    {
+      "challenge_id": 419,
+      "correct": false,
+      "pred": "the",
+      "gold": "civicgmc"
+    },
+    {
+      "challenge_id": 420,
+      "correct": false,
+      "pred": "the",
+      "gold": "chirpperch"
+    },
+    {
+      "challenge_id": 421,
+      "correct": false,
+      "pred": "the",
+      "gold": "standardstndrdth"
+    },
+    {
+      "challenge_id": 422,
+      "correct": false,
+      "pred": "the",
+      "gold": "dualipaapplaud"
+    },
+    {
+      "challenge_id": 423,
+      "correct": false,
+      "pred": "the",
+      "gold": "eligibility"
+    },
+    {
+      "challenge_id": 424,
+      "correct": false,
+      "pred": "bessie",
+      "gold": "maraineybahraini"
+    },
+    {
+      "challenge_id": 425,
+      "correct": false,
+      "pred": "the",
+      "gold": "chloezhao"
+    },
+    {
+      "challenge_id": 426,
+      "correct": false,
+      "pred": "the",
+      "gold": "mazdawanda"
+    },
+    {
+      "challenge_id": 427,
+      "correct": false,
+      "pred": "the",
+      "gold": "ladybirdjohnsonlarrybirdjohnson"
+    },
+    {
+      "challenge_id": 428,
+      "correct": false,
+      "pred": "the",
+      "gold": "bahrainmanamarainman"
+    },
+    {
+      "challenge_id": 429,
+      "correct": false,
+      "pred": "the",
+      "gold": "addisababa"
+    },
+    {
+      "challenge_id": 430,
+      "correct": false,
+      "pred": "the",
+      "gold": "amaryllismaryalice"
+    },
+    {
+      "challenge_id": 431,
+      "correct": false,
+      "pred": "the",
+      "gold": "saudiarabiaaudisaab"
+    },
+    {
+      "challenge_id": 432,
+      "correct": false,
+      "pred": "the",
+      "gold": "flowerboxbowerphlox"
+    },
+    {
+      "challenge_id": 433,
+      "correct": false,
+      "pred": "the",
+      "gold": "sacramentoramentacos"
+    },
+    {
+      "challenge_id": 434,
+      "correct": false,
+      "pred": "the",
+      "gold": "loo"
+    },
+    {
+      "challenge_id": 435,
+      "correct": false,
+      "pred": "the",
+      "gold": "shotputtershotputter"
+    },
+    {
+      "challenge_id": 436,
+      "correct": false,
+      "pred": "the",
+      "gold": "radishreddish"
+    },
+    {
+      "challenge_id": 437,
+      "correct": false,
+      "pred": "the",
+      "gold": "billyidolbillyjoel"
+    },
+    {
+      "challenge_id": 438,
+      "correct": false,
+      "pred": "the",
+      "gold": "wolfgangpuckpack"
+    },
+    {
+      "challenge_id": 439,
+      "correct": false,
+      "pred": "the",
+      "gold": "airplanemodealamode"
+    },
+    {
+      "challenge_id": 440,
+      "correct": false,
+      "pred": "the",
+      "gold": "charlizetheroncharlesithrone"
+    },
+    {
+      "challenge_id": 441,
+      "correct": false,
+      "pred": "the",
+      "gold": "raisinbranbarnraising"
+    },
+    {
+      "challenge_id": 442,
+      "correct": false,
+      "pred": "the",
+      "gold": "pakistankarachiankara"
+    },
+    {
+      "challenge_id": 443,
+      "correct": false,
+      "pred": "the",
+      "gold": "chicagochiordorchid"
+    },
+    {
+      "challenge_id": 444,
+      "correct": false,
+      "pred": "the",
+      "gold": "pakistanparisian"
+    },
+    {
+      "challenge_id": 445,
+      "correct": false,
+      "pred": "the",
+      "gold": "beaarthurkingarthurbbkingkingarthur"
+    },
+    {
+      "challenge_id": 446,
+      "correct": false,
+      "pred": "the",
+      "gold": "balladsoulsaladbowl"
+    },
+    {
+      "challenge_id": 447,
+      "correct": false,
+      "pred": "the",
+      "gold": "grandcanyonaynrand"
+    },
+    {
+      "challenge_id": 448,
+      "correct": false,
+      "pred": "the",
+      "gold": "diegoriveradiegoarrive"
+    },
+    {
+      "challenge_id": 449,
+      "correct": false,
+      "pred": "the",
+      "gold": "santafesantaelf"
+    },
+    {
+      "challenge_id": 450,
+      "correct": false,
+      "pred": "the",
+      "gold": "headherd"
+    },
+    {
+      "challenge_id": 451,
+      "correct": false,
+      "pred": "the",
+      "gold": "singinintherainstrangersinthenight"
+    },
+    {
+      "challenge_id": 452,
+      "correct": false,
+      "pred": "the",
+      "gold": "honoluluhawaiihula"
+    },
+    {
+      "challenge_id": 453,
+      "correct": false,
+      "pred": "the",
+      "gold": "jennykennylenny"
+    },
+    {
+      "challenge_id": 454,
+      "correct": false,
+      "pred": "the",
+      "gold": "thickthin"
+    },
+    {
+      "challenge_id": 455,
+      "correct": false,
+      "pred": "the",
+      "gold": "kohlrabibroccoli"
+    },
+    {
+      "challenge_id": 456,
+      "correct": false,
+      "pred": "the",
+      "gold": "billieeilishbellyeyelash"
+    },
+    {
+      "challenge_id": 457,
+      "correct": false,
+      "pred": "the",
+      "gold": "charminarmchin"
+    },
+    {
+      "challenge_id": 458,
+      "correct": false,
+      "pred": "the",
+      "gold": "aaronerinnora"
+    },
+    {
+      "challenge_id": 459,
+      "correct": false,
+      "pred": "the",
+      "gold": "klingon"
+    },
+    {
+      "challenge_id": 460,
+      "correct": false,
+      "pred": "the",
+      "gold": "wagewarwanewax"
+    },
+    {
+      "challenge_id": 461,
+      "correct": true,
+      "pred": "",
+      "gold": ""
+    },
+    {
+      "challenge_id": 462,
+      "correct": false,
+      "pred": "the",
+      "gold": "holewallwholeall"
+    },
+    {
+      "challenge_id": 464,
+      "correct": false,
+      "pred": "the",
+      "gold": "ramimalekrammale"
+    },
+    {
+      "challenge_id": 465,
+      "correct": false,
+      "pred": "the",
+      "gold": "firetruckfriartuck"
+    },
+    {
+      "challenge_id": 466,
+      "correct": false,
+      "pred": "the",
+      "gold": "oldersoldersoldier"
+    },
+    {
+      "challenge_id": 467,
+      "correct": false,
+      "pred": "the",
+      "gold": "johnnycarsonjohnnycasharsonash"
+    },
+    {
+      "challenge_id": 468,
+      "correct": false,
+      "pred": "the",
+      "gold": "guammaui"
+    },
+    {
+      "challenge_id": 469,
+      "correct": false,
+      "pred": "the",
+      "gold": "cateblanchettcarteblanche"
+    },
+    {
+      "challenge_id": 470,
+      "correct": false,
+      "pred": "the",
+      "gold": "snakesonaplanesoap"
+    },
+    {
+      "challenge_id": 471,
+      "correct": false,
+      "pred": "the",
+      "gold": "threexlviithree"
+    },
+    {
+      "challenge_id": 472,
+      "correct": false,
+      "pred": "the",
+      "gold": "oinkpink"
+    },
+    {
+      "challenge_id": 473,
+      "correct": false,
+      "pred": "the",
+      "gold": "bangladeshbanglade"
+    },
+    {
+      "challenge_id": 474,
+      "correct": false,
+      "pred": "the",
+      "gold": "omgemoji"
+    },
+    {
+      "challenge_id": 475,
+      "correct": false,
+      "pred": "the",
+      "gold": "brisketriskbet"
+    },
+    {
+      "challenge_id": 476,
+      "correct": false,
+      "pred": "the",
+      "gold": "carterbushcharterbus"
+    },
+    {
+      "challenge_id": 477,
+      "correct": false,
+      "pred": "the",
+      "gold": "mickeymousemicemouse"
+    },
+    {
+      "challenge_id": 478,
+      "correct": false,
+      "pred": "the",
+      "gold": "fiftynine"
+    },
+    {
+      "challenge_id": 479,
+      "correct": false,
+      "pred": "the",
+      "gold": "clarinetclaireannetterecital"
+    },
+    {
+      "challenge_id": 480,
+      "correct": false,
+      "pred": "the",
+      "gold": "normanlearnearnormal"
+    },
+    {
+      "challenge_id": 481,
+      "correct": false,
+      "pred": "the",
+      "gold": "darndamn"
+    },
+    {
+      "challenge_id": 482,
+      "correct": false,
+      "pred": "the",
+      "gold": "baritonebaton"
+    },
+    {
+      "challenge_id": 483,
+      "correct": false,
+      "pred": "the",
+      "gold": "maltaatlas"
+    },
+    {
+      "challenge_id": 484,
+      "correct": false,
+      "pred": "the",
+      "gold": "everythingeverywhereallatonce"
+    },
+    {
+      "challenge_id": 485,
+      "correct": false,
+      "pred": "the",
+      "gold": "conquerconcur"
+    },
+    {
+      "challenge_id": 486,
+      "correct": false,
+      "pred": "the",
+      "gold": "brickandmortarrickandmorty"
+    },
+    {
+      "challenge_id": 487,
+      "correct": false,
+      "pred": "the",
+      "gold": "michelobmichelin"
+    },
+    {
+      "challenge_id": 488,
+      "correct": false,
+      "pred": "the",
+      "gold": "capitalonealcapone"
+    },
+    {
+      "challenge_id": 489,
+      "correct": false,
+      "pred": "the",
+      "gold": "astronomystarmoon"
+    },
+    {
+      "challenge_id": 490,
+      "correct": false,
+      "pred": "the",
+      "gold": "jordachedoordash"
+    },
+    {
+      "challenge_id": 491,
+      "correct": false,
+      "pred": "the",
+      "gold": "colonratiocoloration"
+    },
+    {
+      "challenge_id": 492,
+      "correct": false,
+      "pred": "the",
+      "gold": "appleeye"
+    },
+    {
+      "challenge_id": 493,
+      "correct": false,
+      "pred": "the",
+      "gold": "rabbitribbit"
+    },
+    {
+      "challenge_id": 494,
+      "correct": false,
+      "pred": "the",
+      "gold": "cashpursepurchases"
+    },
+    {
+      "challenge_id": 495,
+      "correct": false,
+      "pred": "the",
+      "gold": "semicolonmolsonice"
+    },
+    {
+      "challenge_id": 496,
+      "correct": false,
+      "pred": "the",
+      "gold": "magazinemagzine"
+    },
+    {
+      "challenge_id": 497,
+      "correct": false,
+      "pred": "step",
+      "gold": "memorialromelima"
+    },
+    {
+      "challenge_id": 498,
+      "correct": false,
+      "pred": "the",
+      "gold": "tinafeytinfe"
+    },
+    {
+      "challenge_id": 499,
+      "correct": false,
+      "pred": "the",
+      "gold": "littlerockboulder"
+    },
+    {
+      "challenge_id": 500,
+      "correct": false,
+      "pred": "the",
+      "gold": "chesapeakebaychesspeakebay"
+    },
+    {
+      "challenge_id": 501,
+      "correct": false,
+      "pred": "the",
+      "gold": "poplaryewpopular"
+    },
+    {
+      "challenge_id": 502,
+      "correct": false,
+      "pred": "the",
+      "gold": "uyoutube"
+    },
+    {
+      "challenge_id": 503,
+      "correct": false,
+      "pred": "the",
+      "gold": "nuggetnutegg"
+    },
+    {
+      "challenge_id": 505,
+      "correct": false,
+      "pred": "the",
+      "gold": "niveavian"
+    },
+    {
+      "challenge_id": 506,
+      "correct": false,
+      "pred": "the",
+      "gold": "ukrainekoreanlebanonalbanian"
+    },
+    {
+      "challenge_id": 507,
+      "correct": false,
+      "pred": "the",
+      "gold": "voodoodoll"
+    },
+    {
+      "challenge_id": 508,
+      "correct": false,
+      "pred": "",
+      "gold": "atomicnumber"
+    },
+    {
+      "challenge_id": 509,
+      "correct": false,
+      "pred": "the",
+      "gold": "painssprainaspirin"
+    },
+    {
+      "challenge_id": 510,
+      "correct": false,
+      "pred": "the",
+      "gold": "shepherd"
+    },
+    {
+      "challenge_id": 511,
+      "correct": false,
+      "pred": "the",
+      "gold": "eggplantslegpants"
+    },
+    {
+      "challenge_id": 512,
+      "correct": false,
+      "pred": "the",
+      "gold": "sitaristsatirist"
+    },
+    {
+      "challenge_id": 513,
+      "correct": false,
+      "pred": "the",
+      "gold": "listerineandmrclean"
+    },
+    {
+      "challenge_id": 514,
+      "correct": false,
+      "pred": "the",
+      "gold": "strombolistormboil"
+    },
+    {
+      "challenge_id": 515,
+      "correct": false,
+      "pred": "the",
+      "gold": "deerdoebucksdeerdoughbucks"
+    },
+    {
+      "challenge_id": 516,
+      "correct": false,
+      "pred": "the",
+      "gold": "eardrumunderarm"
+    },
+    {
+      "challenge_id": 517,
+      "correct": false,
+      "pred": "the",
+      "gold": "equation"
+    },
+    {
+      "challenge_id": 518,
+      "correct": false,
+      "pred": "the",
+      "gold": "salmontigergilamonster"
+    },
+    {
+      "challenge_id": 519,
+      "correct": false,
+      "pred": "the",
+      "gold": "georgestraitgorgestrait"
+    },
+    {
+      "challenge_id": 520,
+      "correct": false,
+      "pred": "the",
+      "gold": "carolekingcaroling"
+    },
+    {
+      "challenge_id": 521,
+      "correct": false,
+      "pred": "the",
+      "gold": "charlottebrontecharlottehornet"
+    },
+    {
+      "challenge_id": 522,
+      "correct": false,
+      "pred": "the",
+      "gold": "getsmartbretharte"
+    },
+    {
+      "challenge_id": 523,
+      "correct": false,
+      "pred": "the",
+      "gold": "franksinatrafranksinatray"
+    },
+    {
+      "challenge_id": 524,
+      "correct": false,
+      "pred": "the",
+      "gold": "ridleyripley"
+    },
+    {
+      "challenge_id": 525,
+      "correct": false,
+      "pred": "the",
+      "gold": "racetrackcar"
+    },
+    {
+      "challenge_id": 526,
+      "correct": false,
+      "pred": "the",
+      "gold": "dellastreetalleystreet"
+    },
+    {
+      "challenge_id": 527,
+      "correct": false,
+      "pred": "the",
+      "gold": "buckteethbuttcheek"
+    },
+    {
+      "challenge_id": 528,
+      "correct": false,
+      "pred": "the",
+      "gold": "celinedioneieio"
+    },
+    {
+      "challenge_id": 529,
+      "correct": false,
+      "pred": "the",
+      "gold": "primemeridian"
+    },
+    {
+      "challenge_id": 530,
+      "correct": false,
+      "pred": "the",
+      "gold": "pensacolapepsicola"
+    },
+    {
+      "challenge_id": 531,
+      "correct": false,
+      "pred": "the",
+      "gold": "theseychellestheseashells"
+    },
+    {
+      "challenge_id": 532,
+      "correct": false,
+      "pred": "the",
+      "gold": "mosquitoquitomoscow"
+    },
+    {
+      "challenge_id": 533,
+      "correct": false,
+      "pred": "the",
+      "gold": "trombonestombbones"
+    },
+    {
+      "challenge_id": 534,
+      "correct": false,
+      "pred": "the",
+      "gold": "miasmamyasthma"
+    },
+    {
+      "challenge_id": 535,
+      "correct": false,
+      "pred": "the",
+      "gold": "singaporesingopera"
+    },
+    {
+      "challenge_id": 536,
+      "correct": false,
+      "pred": "the",
+      "gold": "danmarinomandarinorange"
+    },
+    {
+      "challenge_id": 537,
+      "correct": false,
+      "pred": "the",
+      "gold": "jackalantternjackolanternjackalanternejackolantern"
+    },
+    {
+      "challenge_id": 538,
+      "correct": false,
+      "pred": "the",
+      "gold": "kalamazookoalazoo"
+    },
+    {
+      "challenge_id": 539,
+      "correct": false,
+      "pred": "the",
+      "gold": "sanfranciscocalifornians"
+    },
+    {
+      "challenge_id": 540,
+      "correct": false,
+      "pred": "the",
+      "gold": "cellobowcowbell"
+    },
+    {
+      "challenge_id": 541,
+      "correct": true,
+      "pred": "",
+      "gold": ""
+    },
+    {
+      "challenge_id": 542,
+      "correct": false,
+      "pred": "the",
+      "gold": "breakroomrakebroom"
+    },
+    {
+      "challenge_id": 543,
+      "correct": false,
+      "pred": "the",
+      "gold": "obligatorybiologyart"
+    },
+    {
+      "challenge_id": 544,
+      "correct": false,
+      "pred": "the",
+      "gold": "snowsleetrain"
+    },
+    {
+      "challenge_id": 545,
+      "correct": false,
+      "pred": "the",
+      "gold": "hoodhose"
+    },
+    {
+      "challenge_id": 546,
+      "correct": false,
+      "pred": "the",
+      "gold": "restarearearseat"
+    },
+    {
+      "challenge_id": 547,
+      "correct": false,
+      "pred": "the",
+      "gold": "thereisnothingnewunderthesuntinnuts"
+    },
+    {
+      "challenge_id": 548,
+      "correct": false,
+      "pred": "the",
+      "gold": "mentortormentor"
+    },
+    {
+      "challenge_id": 549,
+      "correct": false,
+      "pred": "the",
+      "gold": "bayonetsstab"
+    },
+    {
+      "challenge_id": 550,
+      "correct": false,
+      "pred": "the",
+      "gold": "drnotronthor"
+    },
+    {
+      "challenge_id": 551,
+      "correct": false,
+      "pred": "the",
+      "gold": "ahab"
+    },
+    {
+      "challenge_id": 552,
+      "correct": false,
+      "pred": "the",
+      "gold": "vindieselindies"
+    },
+    {
+      "challenge_id": 553,
+      "correct": false,
+      "pred": "the",
+      "gold": "pachelbelpickleball"
+    },
+    {
+      "challenge_id": 554,
+      "correct": false,
+      "pred": "the",
+      "gold": "clairolricola"
+    },
+    {
+      "challenge_id": 555,
+      "correct": false,
+      "pred": "the",
+      "gold": "ironsilver"
+    },
+    {
+      "challenge_id": 556,
+      "correct": false,
+      "pred": "the",
+      "gold": "yewfirwoolwood"
+    },
+    {
+      "challenge_id": 557,
+      "correct": false,
+      "pred": "the",
+      "gold": "earheartthearts"
+    },
+    {
+      "challenge_id": 558,
+      "correct": false,
+      "pred": "the",
+      "gold": "nelsonmandelamalalayousafzai"
+    },
+    {
+      "challenge_id": 559,
+      "correct": false,
+      "pred": "to",
+      "gold": "goldenoldie"
+    },
+    {
+      "challenge_id": 560,
+      "correct": false,
+      "pred": "the",
+      "gold": "generalelectricgeneralelection"
+    },
+    {
+      "challenge_id": 561,
+      "correct": false,
+      "pred": "the",
+      "gold": "venmomoney"
+    },
+    {
+      "challenge_id": 562,
+      "correct": false,
+      "pred": "the",
+      "gold": "plowsharereapsow"
+    },
+    {
+      "challenge_id": 563,
+      "correct": false,
+      "pred": "the",
+      "gold": "widower"
+    },
+    {
+      "challenge_id": 564,
+      "correct": false,
+      "pred": "the",
+      "gold": "heavencanwait"
+    },
+    {
+      "challenge_id": 565,
+      "correct": false,
+      "pred": "the",
+      "gold": "oceania"
+    },
+    {
+      "challenge_id": 566,
+      "correct": false,
+      "pred": "the",
+      "gold": "malletwalletballetpalletwalletballet"
+    },
+    {
+      "challenge_id": 567,
+      "correct": false,
+      "pred": "the",
+      "gold": "raycharleschrysler"
+    },
+    {
+      "challenge_id": 568,
+      "correct": false,
+      "pred": "the",
+      "gold": "garycoopergraycopper"
+    },
+    {
+      "challenge_id": 569,
+      "correct": false,
+      "pred": "the",
+      "gold": "necknapekneecap"
+    },
+    {
+      "challenge_id": 570,
+      "correct": false,
+      "pred": "the",
+      "gold": "utensil"
+    },
+    {
+      "challenge_id": 571,
+      "correct": false,
+      "pred": "the",
+      "gold": "edgarriceburroughsburied"
+    },
+    {
+      "challenge_id": 572,
+      "correct": false,
+      "pred": "the",
+      "gold": "alecguinnessale"
+    },
+    {
+      "challenge_id": 573,
+      "correct": false,
+      "pred": "the",
+      "gold": "carygrantulyssessgrantcarygrantulyssesgrant"
+    },
+    {
+      "challenge_id": 574,
+      "correct": false,
+      "pred": "the",
+      "gold": "megryangembillycrystal"
+    },
+    {
+      "challenge_id": 575,
+      "correct": false,
+      "pred": "the",
+      "gold": "colemanstove"
+    },
+    {
+      "challenge_id": 576,
+      "correct": false,
+      "pred": "the",
+      "gold": "tallahasseeaseashell"
+    },
+    {
+      "challenge_id": 577,
+      "correct": false,
+      "pred": "the",
+      "gold": "emmastonemason"
+    },
+    {
+      "challenge_id": 578,
+      "correct": false,
+      "pred": "the",
+      "gold": "quichequick"
+    },
+    {
+      "challenge_id": 579,
+      "correct": false,
+      "pred": "the",
+      "gold": "ameliaearhart"
+    },
+    {
+      "challenge_id": 580,
+      "correct": false,
+      "pred": "the",
+      "gold": "thewizardofoz"
+    },
+    {
+      "challenge_id": 581,
+      "correct": false,
+      "pred": "the",
+      "gold": "sweetnlowsweetnlow"
+    },
+    {
+      "challenge_id": 582,
+      "correct": false,
+      "pred": "the",
+      "gold": "doversoledoverseoul"
+    },
+    {
+      "challenge_id": 583,
+      "correct": false,
+      "pred": "the",
+      "gold": "gondolalagoon"
+    },
+    {
+      "challenge_id": 584,
+      "correct": false,
+      "pred": "the",
+      "gold": "dinahshoredinosaur"
+    },
+    {
+      "challenge_id": 585,
+      "correct": false,
+      "pred": "the",
+      "gold": "elililly"
+    },
+    {
+      "challenge_id": 586,
+      "correct": false,
+      "pred": "the",
+      "gold": "casperwyomingbigflatsnewyorkbucksportmainelynchburgtexas"
+    },
+    {
+      "challenge_id": 587,
+      "correct": false,
+      "pred": "the",
+      "gold": "screwdrivercrewriver"
+    },
+    {
+      "challenge_id": 588,
+      "correct": false,
+      "pred": "the",
+      "gold": "newengland"
+    },
+    {
+      "challenge_id": 589,
+      "correct": false,
+      "pred": "the",
+      "gold": "toucansammascot"
+    },
+    {
+      "challenge_id": 590,
+      "correct": false,
+      "pred": "the",
+      "gold": "brethartebreastheart"
+    },
+    {
+      "challenge_id": 591,
+      "correct": false,
+      "pred": "let",
+      "gold": "pansearedredsnapper"
+    },
+    {
+      "challenge_id": 592,
+      "correct": false,
+      "pred": "the",
+      "gold": "testlabtesla"
+    },
+    {
+      "challenge_id": 593,
+      "correct": false,
+      "pred": "the",
+      "gold": "hudsonbayhoundsbay"
+    },
+    {
+      "challenge_id": 594,
+      "correct": false,
+      "pred": "the",
+      "gold": "montgomerygomermonty"
+    },
+    {
+      "challenge_id": 595,
+      "correct": false,
+      "pred": "the",
+      "gold": "tedknightteddynightie"
+    },
+    {
+      "challenge_id": 596,
+      "correct": false,
+      "pred": "the",
+      "gold": "redmaplereedpalm"
+    },
+    {
+      "challenge_id": 597,
+      "correct": false,
+      "pred": "the",
+      "gold": "placeonearthpeaceonearth"
+    },
+    {
+      "challenge_id": 598,
+      "correct": false,
+      "pred": "the",
+      "gold": "greypoupongroupon"
+    },
+    {
+      "challenge_id": 599,
+      "correct": false,
+      "pred": "the",
+      "gold": "justintimberlakejustintime"
+    },
+    {
+      "challenge_id": 601,
+      "correct": false,
+      "pred": "the",
+      "gold": "greenlandterra"
+    },
+    {
+      "challenge_id": 602,
+      "correct": false,
+      "pred": "the",
+      "gold": "covertopcovertop"
+    },
+    {
+      "challenge_id": 603,
+      "correct": false,
+      "pred": "the",
+      "gold": "dollypartondollpart"
+    },
+    {
+      "challenge_id": 604,
+      "correct": false,
+      "pred": "the",
+      "gold": "toenailtailbone"
+    },
+    {
+      "challenge_id": 605,
+      "correct": false,
+      "pred": "the",
+      "gold": "oliveoyliloveyou"
+    },
+    {
+      "challenge_id": 606,
+      "correct": false,
+      "pred": "the",
+      "gold": "larrybirdladybird"
+    },
+    {
+      "challenge_id": 607,
+      "correct": false,
+      "pred": "the",
+      "gold": "chubbycheckerfatsdomino"
+    },
+    {
+      "challenge_id": 608,
+      "correct": false,
+      "pred": "the",
+      "gold": "barbrastreisandsandbar"
+    },
+    {
+      "challenge_id": 609,
+      "correct": false,
+      "pred": "the",
+      "gold": "jawstronet"
+    },
+    {
+      "challenge_id": 610,
+      "correct": false,
+      "pred": "the",
+      "gold": "atlantisatlas"
+    },
+    {
+      "challenge_id": 611,
+      "correct": false,
+      "pred": "the",
+      "gold": "mouth"
+    },
+    {
+      "challenge_id": 612,
+      "correct": false,
+      "pred": "the",
+      "gold": "stonewallstall"
+    },
+    {
+      "challenge_id": 613,
+      "correct": false,
+      "pred": "the",
+      "gold": "pasteurizedpastureraised"
+    },
+    {
+      "challenge_id": 614,
+      "correct": false,
+      "pred": "the",
+      "gold": "acropolisacropcanbeplantedinsoil"
+    },
+    {
+      "challenge_id": 615,
+      "correct": false,
+      "pred": "the",
+      "gold": "llamamallardarmadillo"
+    },
+    {
+      "challenge_id": 616,
+      "correct": false,
+      "pred": "the",
+      "gold": "artsandcraftscartsandrafts"
+    },
+    {
+      "challenge_id": 617,
+      "correct": false,
+      "pred": "the",
+      "gold": "iranchinanepalniger"
+    },
+    {
+      "challenge_id": 618,
+      "correct": false,
+      "pred": "the",
+      "gold": "gladysknightladyknight"
+    },
+    {
+      "challenge_id": 619,
+      "correct": false,
+      "pred": "the",
+      "gold": "peoplemagazine"
+    },
+    {
+      "challenge_id": 620,
+      "correct": false,
+      "pred": "the",
+      "gold": "exactlytwice"
+    },
+    {
+      "challenge_id": 621,
+      "correct": false,
+      "pred": "the",
+      "gold": "jasonbateman"
+    },
+    {
+      "challenge_id": 622,
+      "correct": false,
+      "pred": "the",
+      "gold": "doesdotesfawns"
+    },
+    {
+      "challenge_id": 623,
+      "correct": false,
+      "pred": "the",
+      "gold": "peekaboopikachupeekaboopikachu"
+    },
+    {
+      "challenge_id": 624,
+      "correct": false,
+      "pred": "the",
+      "gold": "pedroalmodvarpalmedorpedroalmodovarpalmedor"
+    },
+    {
+      "challenge_id": 625,
+      "correct": false,
+      "pred": "the",
+      "gold": "minniedriver"
+    },
+    {
+      "challenge_id": 626,
+      "correct": false,
+      "pred": "the",
+      "gold": "waikikibeach"
+    }
+  ]
+}

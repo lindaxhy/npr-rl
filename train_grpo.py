@@ -3,11 +3,12 @@ import random
 
 import numpy as np
 import torch
+import wandb
 import torch.nn.functional as F
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
 from reward import compute_reward
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 
 def parse_args():
@@ -25,6 +26,7 @@ def parse_args():
     parser.add_argument("--max_new_tokens", type=int, default=128)
     parser.add_argument("--max_steps", type=int, default=1000)
     parser.add_argument("--log_every", type=int, default=10)
+    parser.add_argument("--save_every", type=int, default=200, help="Save checkpoint every N steps (0 to disable)")
 
     # Sampling settings for experiment ablations
     parser.add_argument(
@@ -42,6 +44,9 @@ def parse_args():
         default=0.1,
         help="EMA momentum for per-example pass-rate tracking",
     )
+    # W&B
+    parser.add_argument("--wandb_project", type=str, default="npr-rl")
+    parser.add_argument("--wandb_run_name", type=str, default=None)
     return parser.parse_args()
 
 
@@ -71,17 +76,20 @@ def main():
     args = parse_args()
     set_seed(args.seed)
 
+    wandb.init(project=args.wandb_project, name=args.wandb_run_name, config=vars(args))
+
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     tokenizer.pad_token = tokenizer.eos_token
 
+    bnb_config = BitsAndBytesConfig(load_in_4bit=True)
     policy = AutoModelForCausalLM.from_pretrained(
         args.model_name,
-        load_in_4bit=True,
+        quantization_config=bnb_config,
         device_map="auto",
     )
     ref_model = AutoModelForCausalLM.from_pretrained(
         args.model_name,
-        load_in_4bit=True,
+        quantization_config=bnb_config,
         device_map="auto",
     )
     ref_model.eval()
@@ -207,9 +215,26 @@ def main():
                 f"reward_mean={avg_reward:.4f} batch_rewards={rewards.tolist()} "
                 f"effective_ratio={effective_ratio:.3f} avg_pass_ema={avg_seen_ema:.3f}"
             )
+            wandb.log(
+                {
+                    "train/loss": loss.item(),
+                    "train/policy_loss": policy_loss.item(),
+                    "train/kl_loss": kl_loss.item(),
+                    "train/reward_mean": avg_reward,
+                    "train/reward_std": float(rewards.std()),
+                    "train/effective_ratio": effective_ratio,
+                    "train/avg_pass_ema": avg_seen_ema,
+                    "step": step,
+                }
+            )
+        if args.save_every and (step + 1) % args.save_every == 0 and step > 0:
+            ckpt_dir = f"{args.output_dir}/checkpoint-{step + 1}"
+            policy.save_pretrained(ckpt_dir)
+            print(f"Checkpoint saved to {ckpt_dir}")
 
     policy.save_pretrained(args.output_dir)
     print(f"Saved model to {args.output_dir}")
+    wandb.finish()
 
 
 if __name__ == "__main__":

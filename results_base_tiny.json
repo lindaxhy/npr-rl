@@ -1,0 +1,25 @@
+{
+  "accuracy": 0.0,
+  "correct": 0.0,
+  "total": 3,
+  "results": [
+    {
+      "challenge_id": 0,
+      "correct": false,
+      "pred": "the",
+      "gold": "citgo"
+    },
+    {
+      "challenge_id": 1,
+      "correct": false,
+      "pred": "the",
+      "gold": "greyhoundracing"
+    },
+    {
+      "challenge_id": 2,
+      "correct": false,
+      "pred": "the",
+      "gold": "dryeye"
+    }
+  ]
+}
