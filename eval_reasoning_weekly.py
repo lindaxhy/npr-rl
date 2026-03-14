@@ -38,6 +38,12 @@ def build_prompt(challenge: str) -> str:
 
 def main():
     import os
+    # Avoid tp_plan='auto' when WORLD_SIZE is set by job scheduler but we run single-process.
+    # In that case LOCAL_RANK is unset, causing KeyError. Unset these so device_map="auto"
+    # uses normal model parallelism (accelerate), not tensor parallelism.
+    if os.environ.get("WORLD_SIZE") and "LOCAL_RANK" not in os.environ:
+        for k in ("WORLD_SIZE", "RANK", "LOCAL_RANK"):
+            os.environ.pop(k, None)
     args = parse_args()
     model_path = args.model_path.rstrip("/")
 

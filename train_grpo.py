@@ -1,4 +1,5 @@
 import argparse
+import os
 import random
 
 import numpy as np
@@ -47,6 +48,7 @@ def parse_args():
     # W&B
     parser.add_argument("--wandb_project", type=str, default="npr-rl")
     parser.add_argument("--wandb_run_name", type=str, default=None)
+    parser.add_argument("--no_wandb", action="store_true", help="Disable wandb (avoids login prompt in non-interactive runs)")
     return parser.parse_args()
 
 
@@ -73,10 +75,18 @@ def build_prompt(challenge: str) -> str:
 
 
 def main():
+    # Avoid tp_plan='auto' when WORLD_SIZE is set (e.g. by job scheduler) but we run
+    # single-process. Unset distributed env vars so device_map="auto" uses normal
+    # model parallelism (accelerate), not tensor parallelism.
+    if os.environ.get("WORLD_SIZE") and "LOCAL_RANK" not in os.environ:
+        for k in ("WORLD_SIZE", "RANK", "LOCAL_RANK"):
+            os.environ.pop(k, None)
+
     args = parse_args()
     set_seed(args.seed)
 
-    wandb.init(project=args.wandb_project, name=args.wandb_run_name, config=vars(args))
+    if not args.no_wandb:
+        wandb.init(project=args.wandb_project, name=args.wandb_run_name, config=vars(args))
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     tokenizer.pad_token = tokenizer.eos_token
@@ -86,11 +96,13 @@ def main():
         args.model_name,
         quantization_config=bnb_config,
         device_map="auto",
+        tp_plan=None,  # avoid tensor parallel; use device_map only (no torch.distributed)
     )
     ref_model = AutoModelForCausalLM.from_pretrained(
         args.model_name,
         quantization_config=bnb_config,
         device_map="auto",
+        tp_plan=None,
     )
     ref_model.eval()
     for p in ref_model.parameters():
@@ -215,18 +227,19 @@ def main():
                 f"reward_mean={avg_reward:.4f} batch_rewards={rewards.tolist()} "
                 f"effective_ratio={effective_ratio:.3f} avg_pass_ema={avg_seen_ema:.3f}"
             )
-            wandb.log(
-                {
-                    "train/loss": loss.item(),
-                    "train/policy_loss": policy_loss.item(),
-                    "train/kl_loss": kl_loss.item(),
-                    "train/reward_mean": avg_reward,
-                    "train/reward_std": float(rewards.std()),
-                    "train/effective_ratio": effective_ratio,
-                    "train/avg_pass_ema": avg_seen_ema,
-                    "step": step,
-                }
-            )
+            if not args.no_wandb:
+                wandb.log(
+                    {
+                        "train/loss": loss.item(),
+                        "train/policy_loss": policy_loss.item(),
+                        "train/kl_loss": kl_loss.item(),
+                        "train/reward_mean": avg_reward,
+                        "train/reward_std": float(rewards.std()),
+                        "train/effective_ratio": effective_ratio,
+                        "train/avg_pass_ema": avg_seen_ema,
+                        "step": step,
+                    }
+                )
         if args.save_every and (step + 1) % args.save_every == 0 and step > 0:
             ckpt_dir = f"{args.output_dir}/checkpoint-{step + 1}"
             policy.save_pretrained(ckpt_dir)
@@ -234,7 +247,8 @@ def main():
 
     policy.save_pretrained(args.output_dir)
     print(f"Saved model to {args.output_dir}")
-    wandb.finish()
+    if not args.no_wandb:
+        wandb.finish()
 
 
 if __name__ == "__main__":
