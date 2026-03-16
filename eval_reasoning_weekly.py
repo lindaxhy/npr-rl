@@ -26,7 +26,7 @@ def parse_args():
     p.add_argument("--model_path", type=str, required=True, help="Base model name or path; if dir with adapter_config.json, loads PEFT")
     p.add_argument("--output", type=str, default=None, help="Optional JSON path to save per-example results")
     p.add_argument("--max_samples", type=int, default=None, help="Cap number of samples (default: all)")
-    p.add_argument("--max_new_tokens", type=int, default=256)
+    p.add_argument("--max_new_tokens", type=int, default=8192)
     p.add_argument("--device", type=str, default="cuda")
     p.add_argument("--batch_size", type=int, default=1)
     return p.parse_args()
